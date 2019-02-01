@@ -5,7 +5,7 @@
   "homepage": "https://github.com/ssbc/ssb-config",
   "repository": {
     "type": "git",
-    "url": "git://github.com/ssbc/ssb-config.git"
+    "url": "git://github.com/everlifeai/ssb-config.git"
   },
   "scripts": {
     "test": "node test"
